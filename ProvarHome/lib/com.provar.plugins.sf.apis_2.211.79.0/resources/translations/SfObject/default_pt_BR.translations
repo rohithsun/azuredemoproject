@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="*.AccountId" type="SfFieldLabel" value="{Account}.{Name}"/>
+  <translation key="*.ActivatedById" type="SfFieldLabel" value="Ativado pelo ID"/>
+  <translation key="*.ActivatedDate" type="SfFieldLabel" value="Data de ativação"/>
+  <translation key="*.ActivityDate" type="SfFieldLabel" value="Data de vencimento"/>
+  <translation key="*.ActivityDateTime" type="SfFieldLabel" value="Hora da data de vencimento"/>
+  <translation key="*.Address" type="SfFieldLabel" value="Endereço"/>
+  <translation key="*.Amount" type="SfFieldLabel" value="Valor"/>
+  <translation key="*.AnnualRevenue" type="SfFieldLabel" value="Receita anual"/>
+  <translation key="*.AssetId" type="SfFieldLabel" value="ID do ativo"/>
+  <translation key="*.AssistantName" type="SfFieldLabel" value="Nome do assistente"/>
+  <translation key="*.AssistantPhone" type="SfFieldLabel" value="Telefone do assistente"/>
+  <translation key="*.AvailableQuantity" type="SfFieldLabel" value="Quantidade disponível"/>
+  <translation key="*.BillToContactId" type="SfFieldLabel" value="ID do contato de cobrança"/>
+  <translation key="*.BillingAddress" type="SfFieldLabel" value="Endereço de cobrança"/>
+  <translation key="*.BillingCity" type="SfFieldLabel" value="Cidade de cobrança"/>
+  <translation key="*.BillingCountry" type="SfFieldLabel" value="País de cobrança"/>
+  <translation key="*.BillingGeocodeAccuracy" type="SfFieldLabel" value="Billing Geocode Accuracy"/>
+  <translation key="*.BillingLatitude" type="SfFieldLabel" value="Latitude da cobrança"/>
+  <translation key="*.BillingLongitude" type="SfFieldLabel" value="Longitude da cobrança"/>
+  <translation key="*.BillingPostalCode" type="SfFieldLabel" value="CEP de cobrança"/>
+  <translation key="*.BillingZip" type="SfFieldLabel" value="CEP de cobrança"/>
+  <translation key="*.BillingState" type="SfFieldLabel" value="Estado/Província de cobrança"/>
+  <translation key="*.BillingStreet" type="SfFieldLabel" value="Rua de cobrança"/>
+  <translation key="*.Birthdate" type="SfFieldLabel" value="Data de nascimento"/>
+  <translation key="*.Body" type="SfFieldLabel" value="Corpo"/>
+  <translation key="*.CallDisposition" type="SfFieldLabel" value="Resultado da chamada"/>
+  <translation key="*.CallDurationInSeconds" type="SfFieldLabel" value="Duração da chamada"/>
+  <translation key="*.CallObject" type="SfFieldLabel" value="Identificador de objeto da chamada"/>
+  <translation key="*.CallType" type="SfFieldLabel" value="Tipo de chamada"/>
+  <translation key="*.CampaignId" type="SfFieldLabel" value="ID da campanha"/>
+  <translation key="*.CampaignMemberRecordTypeId" type="SfFieldLabel" value="ID do tipo de registro"/>
+  <translation key="*.City" type="SfFieldLabel" value="Cidade"/>
+  <translation key="*.CleanStatus" type="SfFieldLabel" value="Status limpo"/>
+  <translation key="*.CloseDate" type="SfFieldLabel" value="Data de fechamento"/>
+  <translation key="*.ClosedDate" type="SfFieldLabel" value="Data de fechamento"/>
+  <translation key="*.CommentBody" type="SfFieldLabel" value="Corpo" relatedListLabel="Comentário"/>
+  <translation key="*.Company" type="SfFieldLabel" value="Empresa"/>
+  <translation key="*.CompanyAuthorizedById" type="SfFieldLabel" value="Empresa autorizada pelo ID"/>
+  <translation key="*.CompanyAuthorizedDate" type="SfFieldLabel" value="Data de autorização da empresa"/>
+  <translation key="*.CompanyDunsNumber" type="SfFieldLabel" value="Número D-U-N-S da empresa"/>
+  <translation key="*.CompanyOrAccount" type="SfFieldLabel" value="Empresa (conta)"/>
+  <translation key="*.CompanySignedDate" type="SfFieldLabel" value="Data da assinatura da empresa"/>
+  <translation key="*.CompanySignedId" type="SfFieldLabel" value="ID do signatrio da empresa"/>
+  <translation key="*.ContactEmail" type="SfFieldLabel" value="Email do contato"/>
+  <translation key="*.ContactFax" type="SfFieldLabel" value="Fax do contato"/>
+  <translation key="*.ContactId" type="SfFieldLabel" value="{Contact}.{Name}"/>
+  <translation key="*.ContactMobile" type="SfFieldLabel" value="Celular do contato"/>
+  <translation key="*.ContactPhone" type="SfFieldLabel" value="Telefone do contato"/>
+  <translation key="*.ContractId" type="SfFieldLabel" value="ID do contrato"/>
+  <translation key="*.ConvertedAccountId" type="SfFieldLabel" value="ID da conta convertido"/>
+  <translation key="*.ConvertedContactId" type="SfFieldLabel" value="ID do contato convertido"/>
+  <translation key="*.ConvertedDate" type="SfFieldLabel" value="Data da conversão"/>
+  <translation key="*.ConvertedOpportunityId" type="SfFieldLabel" value="ID da oportunidade convertido"/>
+  <translation key="*.Country" type="SfFieldLabel" value="País"/>
+  <translation key="*.CreatedById" type="SfFieldLabel" value="Criado por"/>
+  <translation key="*.CreatedDate" type="SfFieldLabel" value="Data/Hora de abertura"/>
+  <translation key="*.CurrencyIsoCode" type="SfFieldLabel" value="Moeda da conta"/>
+  <translation key="*.CustomerAuthorizedById" type="SfFieldLabel" value="Cliente autorizado pelo ID"/>
+  <translation key="*.CustomerAuthorizedDate" type="SfFieldLabel" value="Data de autorização do cliente"/>
+  <translation key="*.CustomerSignedDate" type="SfFieldLabel" value="Data da assinatura do cliente"/>
+  <translation key="*.CustomerSignedId" type="SfFieldLabel" value="ID do signatrio do cliente"/>
+  <translation key="*.CustomerSignedTitle" type="SfFieldLabel" value="Cargo do signatário do cliente"/>
+  <translation key="*.DandbCompanyId" type="SfFieldLabel" value="ID da D&amp;B Company"/>
+  <translation key="*.Department" type="SfFieldLabel" value="Departamento"/>
+  <translation key="*.Description" type="SfFieldLabel" value="Descrição"/>
+  <translation key="*.DisplayUrl" type="SfFieldLabel" value="URL de exibição"/>
+  <translation key="*.DoNotCall" type="SfFieldLabel" value="Não chamar"/>
+  <translation key="*.DunsNumber" type="SfFieldLabel" value="Número D-U-N-S"/>
+  <translation key="*.DurationInMinutes" type="SfFieldLabel" value="Duração"/>
+  <translation key="*.Email" type="SfFieldLabel" value="Email"/>
+  <translation key="*.EmailBouncedDate" type="SfFieldLabel" value="Data da devolução do email"/>
+  <translation key="*.EmailBouncedReason" type="SfFieldLabel" value="Motivo da devolução do email"/>
+  <translation key="*.EndDate" type="SfFieldLabel" value="Data de término"/>
+  <translation key="*.EndDateTime" type="SfFieldLabel" value="Fim"/>
+  <translation key="*.ExpectedResponse" type="SfFieldLabel" value="Resposta esperada (%)"/>
+  <translation key="*.ExpectedRevenue" type="SfFieldLabel" value="Valor esperado"/>
+  <translation key="*.ExternalDataSourceId" type="SfFieldLabel" value="ID da Origem de dados externa"/>
+  <translation key="*.ExternalId" type="SfFieldLabel" value="ID externo"/>
+  <translation key="*.Fax" type="SfFieldLabel" value="Fax"/>
+  <translation key="*.FirstName" type="SfFieldLabel" value="Primeiro Nome"/>
+  <translation key="*.FirstRespondedDate" type="SfFieldLabel" value="Data da primeira resposta"/>
+  <translation key="*.Fiscal" type="SfFieldLabel" value="Período fiscal"/>
+  <translation key="*.FiscalQuarter" type="SfFieldLabel" value="Trimestre fiscal"/>
+  <translation key="*.FiscalYear" type="SfFieldLabel" value="Ano fiscal"/>
+  <translation key="*.ForecastCategory" type="SfFieldLabel" value="Categoria de previsão"/>
+  <translation key="*.ForecastCategoryName" type="SfFieldLabel" value="Categoria de previsão"/>
+  <translation key="*.GeocodeAccuracy" type="SfFieldLabel" value="Geocode Accuracy"/>
+  <translation key="*.GroupEventType" type="SfFieldLabel" value="Tipo de Evento de Grupo"/>
+  <translation key="*.HasOpenActivity" type="SfFieldLabel" value="Possui uma atividade aberta"/>
+  <translation key="*.HasOpportunityLineItem" type="SfFieldLabel" value="Tem item"/>
+  <translation key="*.HasOptedOutOfEmail" type="SfFieldLabel" value="Recusa de email"/>
+  <translation key="*.HasOptedOutOfFax" type="SfFieldLabel" value="Recusa de fax"/>
+  <translation key="*.HasOverdueTask" type="SfFieldLabel" value="Possui uma tarefa atrasada"/>
+  <translation key="*.HasResponded" type="SfFieldLabel" value="Respondido"/>
+  <translation key="*.HomePhone" type="SfFieldLabel" value="Telefone residencial"/>
+  <translation key="*.Id" type="SfFieldLabel" value="Id Principal"/>
+  <translation key="*.Industry" type="SfFieldLabel" value="Setor"/>
+  <translation key="*.InstallDate" type="SfFieldLabel" value="Data da instalação"/>
+  <translation key="*.IsActive" type="SfFieldLabel" value="Ativa"/>
+  <translation key="*.IsArchived" type="SfFieldLabel" value="Arquivado"/>
+  <translation key="*.IsChild" type="SfFieldLabel" value="Filho"/>
+  <translation key="*.IsClosed" type="SfFieldLabel" value="Fechado"/>
+  <translation key="*.IsConverted" type="SfFieldLabel" value="Convertido"/>
+  <translation key="*.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="*.IsEmailBounced" type="SfFieldLabel" value="Email devolvido"/>
+  <translation key="*.IsEscalated" type="SfFieldLabel" value="Escalado"/>
+  <translation key="*.IsHighPriority" type="SfFieldLabel" value="Prioridade alta"/>
+  <translation key="*.IsPrimary" type="SfFieldLabel" value="Principal"/>
+  <translation key="*.IsPrivate" type="SfFieldLabel" value="Particular"/>
+  <translation key="*.IsPublished" type="SfFieldLabel" value="Publicado"/>
+  <translation key="*.IsReminderSet" type="SfFieldLabel" value="Conjunto de lembretes"/>
+  <translation key="*.IsUnreadByOwner" type="SfFieldLabel" value="Não lido pelo proprietário"/>
+  <translation key="*.IsWon" type="SfFieldLabel" value="Ganhos"/>
+  <translation key="*.Jigsaw" type="SfFieldLabel" value="Chave Data.com"/>
+  <translation key="*.JigsawCompanyId" type="SfFieldLabel" value="Jigsaw Company ID"/>
+  <translation key="*.JigsawContactId" type="SfFieldLabel" value="Jigsaw Contact ID"/>
+  <translation key="*.LastActivityDate" type="SfFieldLabel" value="Última atividade"/>
+  <translation key="*.LastApprovedDate" type="SfFieldLabel" value="Data da última aprovação"/>
+  <translation key="*.LastCURequestDate" type="SfFieldLabel" value="Data da última solicitação do Stay-in-Touch"/>
+  <translation key="*.LastCUUpdateDate" type="SfFieldLabel" value="Data do último salvamento do Stay-in-Touch"/>
+  <translation key="*.LastModifiedById" type="SfFieldLabel" value="Última modificação feita por"/>
+  <translation key="*.LastModifiedDate" type="SfFieldLabel" value="Data da última modif." relatedListLabel="Última modificação"/>
+  <translation key="*.LastName" type="SfFieldLabel" value="Sobrenome"/>
+  <translation key="*.LastReferencedDate" type="SfFieldLabel" value="Última data citada"/>
+  <translation key="*.LastViewedDate" type="SfFieldLabel" value="Data da última visualização"/>
+  <translation key="*.Latitude" type="SfFieldLabel" value="Latitude"/>
+  <translation key="*.LeadId" type="SfFieldLabel" value="Id Principal"/>
+  <translation key="*.LeadOrContactId" type="SfFieldLabel" value="Lead/Contato ID"/>
+  <translation key="*.LeadOrContactOwnerId" type="SfFieldLabel" value="ID de Proprietário do lead/contato"/>
+  <translation key="*.LeadSource" type="SfFieldLabel" value="{Lead}.{Source}"/>
+  <translation key="*.ListPrice" type="SfFieldLabel" value="Preço de lista"/>
+  <translation key="*.Location" type="SfFieldLabel" value="Local"/>
+  <translation key="*.Longitude" type="SfFieldLabel" value="Longitude"/>
+  <translation key="*.MailingAddress" type="SfFieldLabel" value="Endereço de correspondência"/>
+  <translation key="*.MailingCity" type="SfFieldLabel" value="Cidade de correspondência"/>
+  <translation key="*.MailingCountry" type="SfFieldLabel" value="País de correspondência"/>
+  <translation key="*.MailingGeocodeAccuracy" type="SfFieldLabel" value="Mailing Geocode Accuracy"/>
+  <translation key="*.MailingLatitude" type="SfFieldLabel" value="Latitude de correspondência"/>
+  <translation key="*.MailingLongitude" type="SfFieldLabel" value="Longitude de correspondência"/>
+  <translation key="*.MailingPostalCode" type="SfFieldLabel" value="CEP de correspondência"/>
+  <translation key="*.MailingState" type="SfFieldLabel" value="Estado/Província de correspondência"/>
+  <translation key="*.MailingStreet" type="SfFieldLabel" value="Rua de correspondência"/>
+  <translation key="*.MasterRecordId" type="SfFieldLabel" value="ID do registro mestre"/>
+  <translation key="*.MobilePhone" type="SfFieldLabel" value="Celular"/>
+  <translation key="*.NaicsCode" type="SfFieldLabel" value="Código NAICS"/>
+  <translation key="*.NaicsDesc" type="SfFieldLabel" value="Descrição NAICS"/>
+  <translation key="*.Name" type="SfFieldLabel" value="Nome"/>
+  <translation key="*.NextStep" type="SfFieldLabel" value="Próxima etapa"/>
+  <translation key="*.NumberOfEmployees" type="SfFieldLabel" value="Funcionários"/>
+  <translation key="*.OpportunityId" type="SfFieldLabel" value="ID da oportunidade"/>
+  <translation key="*.OrderId" type="SfFieldLabel" value="ID do pedido"/>
+  <translation key="*.OriginalOrderItemId" type="SfFieldLabel" value="ID do item do pedido original"/>
+  <translation key="*.OtherAddress" type="SfFieldLabel" value="Outro endereço"/>
+  <translation key="*.OtherCity" type="SfFieldLabel" value="Outra cidade"/>
+  <translation key="*.OtherCountry" type="SfFieldLabel" value="Outro país"/>
+  <translation key="*.OtherGeocodeAccuracy" type="SfFieldLabel" value="Other Geocode Accuracy"/>
+  <translation key="*.OtherLatitude" type="SfFieldLabel" value="Outra latitude"/>
+  <translation key="*.OtherLongitude" type="SfFieldLabel" value="Outra longitude"/>
+  <translation key="*.OtherPhone" type="SfFieldLabel" value="Outro telefone"/>
+  <translation key="*.OtherPostalCode" type="SfFieldLabel" value="Outro CEP"/>
+  <translation key="*.OtherState" type="SfFieldLabel" value="Outro estado/província"/>
+  <translation key="*.OtherStreet" type="SfFieldLabel" value="Outra rua"/>
+  <translation key="*.OwnerExpirationNotice" type="SfFieldLabel" value="Notificação de vencimento do proprietário"/>
+  <translation key="*.OwnerId" type="SfFieldLabel" value="ID do proprietário" relatedListLabel="Proprietário"/>
+  <translation key="*.Owner" type="SfFieldLabel" value="ID do proprietário" relatedListLabel="Proprietário"/>
+  <translation key="*.Ownership" type="SfFieldLabel" value="Propriedade"/>
+  <translation key="*.ParentId" type="SfFieldLabel" value="ID do patrimônio pai"/>
+  <translation key="*.Phone" type="SfFieldLabel" value="Telefone"/>
+  <translation key="*.PhotoUrl" type="SfFieldLabel" value="URL da foto"/>
+  <translation key="*.PostalCode" type="SfFieldLabel" value="CEP"/>
+  <translation key="*.Price" type="SfFieldLabel" value="Preço"/>
+  <translation key="*.Pricebook2Id" type="SfFieldLabel" value="ID do catálogo de preços"/>
+  <translation key="*.PricebookEntryId" type="SfFieldLabel" value="ID da Entrada da Tabela de Preços"/>
+  <translation key="*.Priority" type="SfFieldLabel" value="Prioridade"/>
+  <translation key="*.Probability" type="SfFieldLabel" value="Probabilidade (%)"/>
+  <translation key="*.Product2Id" type="SfFieldLabel" value="ID do produto"/>
+  <translation key="*.ProductCode" type="SfFieldLabel" value="Código do produto"/>
+  <translation key="*.PurchaseDate" type="SfFieldLabel" value="Data da compra"/>
+  <translation key="*.Quantity" type="SfFieldLabel" value="Quantidade"/>
+  <translation key="*.QuantityUnitOfMeasure" type="SfFieldLabel" value="Unidade de medida da quantidade"/>
+  <translation key="*.Rating" type="SfFieldLabel" value="Classificação"/>
+  <translation key="*.RecordType" type="SfFieldLabel" value="Tipo de registro"/>
+  <translation key="*.RecurrenceActivityId" type="SfFieldLabel" value="ID da atividade para repetição"/>
+  <translation key="*.RecurrenceDayOfMonth" type="SfFieldLabel" value="Dia do mês para repetição"/>
+  <translation key="*.RecurrenceDayOfWeekMask" type="SfFieldLabel" value="Máscara do dia da semana para repetição"/>
+  <translation key="*.RecurrenceEndDateOnly" type="SfFieldLabel" value="Término da repetição"/>
+  <translation key="*.RecurrenceInstance" type="SfFieldLabel" value="Instância para repetição"/>
+  <translation key="*.RecurrenceInterval" type="SfFieldLabel" value="Intervalo para repetição"/>
+  <translation key="*.RecurrenceMonthOfYear" type="SfFieldLabel" value="Mês do ano para repetição"/>
+  <translation key="*.RecurrenceStartDateOnly" type="SfFieldLabel" value="Início da repetição"/>
+  <translation key="*.RecurrenceStartDateTime" type="SfFieldLabel" value="Início da repetição"/>
+  <translation key="*.RecurrenceTimeZoneSidKey" type="SfFieldLabel" value="Fuso horário para repetição"/>
+  <translation key="*.RecurrenceType" type="SfFieldLabel" value="Tipo de repetição"/>
+  <translation key="*.ReminderDateTime" type="SfFieldLabel" value="Data/Hora do lembrete"/>
+  <translation key="*.ReportsToId" type="SfFieldLabel" value="Reporta-se ao ID"/>
+  <translation key="*.Role" type="SfFieldLabel" value="Papel"/>
+  <translation key="*.RootAssetId" type="SfFieldLabel" value="ID do patrimônio raiz"/>
+  <translation key="*.Salutation" type="SfFieldLabel" value="Tratamento"/>
+  <translation key="*.SerialNumber" type="SfFieldLabel" value="Número de série"/>
+  <translation key="*.ServiceDate" type="SfFieldLabel" value="Data"/>
+  <translation key="*.ShipToContactId" type="SfFieldLabel" value="ID do contato de entrega"/>
+  <translation key="*.ShippingAddress" type="SfFieldLabel" value="Endereço de entrega"/>
+  <translation key="*.ShippingCity" type="SfFieldLabel" value="Cidade de entrega"/>
+  <translation key="*.ShippingCountry" type="SfFieldLabel" value="País de entrega"/>
+  <translation key="*.ShippingGeocodeAccuracy" type="SfFieldLabel" value="Shipping Geocode Accuracy"/>
+  <translation key="*.ShippingLatitude" type="SfFieldLabel" value="Latitude de envio"/>
+  <translation key="*.ShippingLongitude" type="SfFieldLabel" value="Longitude de envio"/>
+  <translation key="*.ShippingPostalCode" type="SfFieldLabel" value="CEP de entrega"/>
+  <translation key="*.ShippingState" type="SfFieldLabel" value="Estado/Província de entrega"/>
+  <translation key="*.ShippingStreet" type="SfFieldLabel" value="Rua de entrega"/>
+  <translation key="*.ShowAs" type="SfFieldLabel" value="Mostrar hora como"/>
+  <translation key="*.Sic" type="SfFieldLabel" value="Código SIC"/>
+  <translation key="*.SicDesc" type="SfFieldLabel" value="Descrição SIC"/>
+  <translation key="*.SortOrder" type="SfFieldLabel" value="Ordem de classificação"/>
+  <translation key="*.SpecialTerms" type="SfFieldLabel" value="Termos especiais"/>
+  <translation key="*.Stage" type="SfFieldLabel" value="Fase"/>
+  <translation key="*.StageName" type="SfFieldLabel" value="Fase"/>
+  <translation key="*.StartDate" type="SfFieldLabel" value="Data de início"/>
+  <translation key="*.StartDateTime" type="SfFieldLabel" value="Início"/>
+  <translation key="*.State" type="SfFieldLabel" value="Estado/Província"/>
+  <translation key="*.Status" type="SfFieldLabel" value="Status"/>
+  <translation key="*.StatusCode" type="SfFieldLabel" value="Categoria do status"/>
+  <translation key="*.StockKeepingUnit" type="SfFieldLabel" value="SKU do produto"/>
+  <translation key="*.Street" type="SfFieldLabel" value="Rua"/>
+  <translation key="*.Subject" type="SfFieldLabel" value="Assunto"/>
+  <translation key="*.SuppliedCompany" type="SfFieldLabel" value="Empresa"/>
+  <translation key="*.WebEmail" type="SfFieldLabel" value="Endereço de email"/>
+  <translation key="*.SuppliedName" type="SfFieldLabel" value="Nome"/>
+  <translation key="*.WebPhone" type="SfFieldLabel" value="Telefone"/>
+  <translation key="*.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+  <translation key="*.TickerSymbol" type="SfFieldLabel" value="Símbolo do marcador"/>
+  <translation key="*.Title" type="SfFieldLabel" value="T�tulo"/>
+  <translation key="*.TotalOpportunityQuantity" type="SfFieldLabel" value="Quantidade"/>
+  <translation key="*.TotalPrice" type="SfFieldLabel" value="Preço total"/>
+  <translation key="*.Tradestyle" type="SfFieldLabel" value="Tradestyle"/>
+  <translation key="*.Type" type="SfFieldLabel" value="Tipo"/>
+  <translation key="*.UnitPrice" type="SfFieldLabel" value="Preço de venda"/>
+  <translation key="*.UsageEndDate" type="SfFieldLabel" value="Data de término do uso"/>
+  <translation key="*.UseStandardPrice" type="SfFieldLabel" value="Usar preço padrão"/>
+  <translation key="*.Website" type="SfFieldLabel" value="Site da Web"/>
+  <translation key="*.WhatId" type="SfFieldLabel" value="Relativo a"/>
+  <translation key="*.WhoId" type="SfFieldLabel" value="Nome"/>
+  <translation key="*.YearStarted" type="SfFieldLabel" value="Ano de início"/>  
+  <translation key="Histories.CreatedDate" type="SfFieldLabel" value="Data"/>
+  <translation key="Histories.User" type="SfFieldLabel" value="Usuário"/>
+  <translation key="Histories.Connection" type="SfFieldLabel" value="Conexão"/>
+  <translation key="Histories.Action" type="SfFieldLabel" value="Ação"/>
+  <translation key="ChangeOwner.selectOwner" type="SfFieldLabel" value="Seleccionar nuevo propietario"/>
+  <translation key="ChangeOwner.OwnerId" type="SfFieldLabel" value="Transferir este "/>
+  <translation key="ChangeOwner.newOwn" type="SfFieldLabel" value="Proprietário"/>
+  <translation key="ChangeOwner.sendMail" type="SfFieldLabel" value="Enviar email de notificação"/>
+  <translation key="ChangeOwner.transOpenOpps" type="SfFieldLabel" value="Transferir oportunidades abertas"/>
+  <translation key="ChangeOwner.transClosedOpps" type="SfFieldLabel" value="Transferir oportunidades fechadas"/>
+  <translation key="ChangeOwner.transOwnedCases" type="SfFieldLabel" value="Transferir casos abertos"/>
+  <translation key="ChangeOwner.transClosedCase" type="SfFieldLabel" value="Transferir casos fechados"/>
+  <translation key="ChangeOwner.keepTeam" type="SfFieldLabel" value="Manter a Equipe de contas"/>
+  <translation key="ChangeOwner.keepSalesTeam" type="SfFieldLabel" value="Manter a Equipe de oportunidades"/>
+  <translation key="*.UpdatedBy_Alias" type="SfFieldLabel" value="Última modificação feita por"/>
+  <translation key="*.*.Additional Information" type="SfLayoutSectionLabel" value="Informações adicionais"/>
+  <translation key="*.*.Address Information" type="SfLayoutSectionLabel" value="Informações de endereço"/>
+  <translation key="*.*.Calendar Event Details" type="SfLayoutSectionLabel" value="Detalhes do calendário"/>
+  <translation key="*.*.Description Information" type="SfLayoutSectionLabel" value="Informações de descrição"/>
+  <translation key="*.*.Detail Information" type="SfLayoutSectionLabel" value="Informações detalhadas"/>
+  <translation key="*.*.Information" type="SfLayoutSectionLabel" value="Informações"/>
+  <translation key="*.*.Optional" type="SfLayoutSectionLabel" value="Opcional"/>
+  <translation key="*.*.Product Information" type="SfLayoutSectionLabel" value="Informações do produto"/>
+  <translation key="*.*.System Information" type="SfLayoutSectionLabel" value="Informações do sistema"/>
+  <translation key="*.*.Web Information" type="SfLayoutSectionLabel" value="Informações da Web"/>
+  <translation key="Account" plural="Contas" type="SfObjectLabel" value="Conta"/>
+  <translation key="Asset" plural="Ativos" type="SfObjectLabel" value="Ativo"/>
+  <translation key="Campaign" plural="Campanhas" type="SfObjectLabel" value="Campanha"/>
+  <translation key="CampaignMember" plural="Membros da campanha" type="SfObjectLabel" value="Membro da campanha"/>
+  <translation key="Case" plural="Casos" type="SfObjectLabel" value="Caso"/>
+  <translation key="CaseComment" plural="Comentários do caso" type="SfObjectLabel" value="Comentário do caso"/>
+  <translation key="Contact" plural="Contatos" type="SfObjectLabel" value="Contato"/>
+  <translation key="Contract" plural="Contratos" type="SfObjectLabel" value="Contrato"/>
+  <translation key="ContractContactRole" plural="Papel do contato do contrato" type="SfObjectLabel" value="Papel do contato do contrato"/>
+  <translation key="Event" plural="Compromissos" type="SfObjectLabel" value="Compromisso"/>
+  <translation key="Lead" plural="Leads" type="SfObjectLabel" value="Lead"/>
+  <translation key="Note" plural="Notas" type="SfObjectLabel" value="Nota"/>
+  <translation key="Opportunity" plural="Oportunidades" type="SfObjectLabel" value="Oportunidade"/>
+  <translation key="OpportunityContactRole" plural="Papel do contato da oportunidade" type="SfObjectLabel" value="Papel do contato da oportunidade"/>
+  <translation key="OpportunityLineItem" plural="Produto de oportunidade" type="SfObjectLabel" value="Produto de oportunidade"/>
+  <translation key="Order" plural="Pedidos" type="SfObjectLabel" value="Pedido"/>
+  <translation key="OrderItem" plural="Produtos do pedido" type="SfObjectLabel" value="Produto do pedido"/>
+  <translation key="Pricebook2" plural="Catálogos de preços" type="SfObjectLabel" value="Catálogo de preços"/>
+  <translation key="PricebookEntry" plural="Entradas da Tabela de Preços" type="SfObjectLabel" value="Entrada da Tabela de Preços"/>
+  <translation key="Product2" plural="Produtos" type="SfObjectLabel" value="Produto"/>
+  <translation key="Task" plural="Tarefas" type="SfObjectLabel" value="Tarefa"/>
+</translations>
